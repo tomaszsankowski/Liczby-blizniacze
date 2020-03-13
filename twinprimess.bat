@@ -1,0 +1,1 @@
+twinprimes.exe < twins.txt > twinprimess.txt
